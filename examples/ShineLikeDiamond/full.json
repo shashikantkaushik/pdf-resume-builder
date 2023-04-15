@@ -1,180 +1,97 @@
 {
-   "name": "Name",
-   "lastname": "Surname",
-   "tagline": "Tagline",
+   "name": "Shashi Kant",
+   
+   "tagline": "",
    "contact": {
-      "email": "hire@domain.com",
-      "phone": "123 456 789",
-      "linkedin": "username",
-      "github": "username",
-      "website": "example.com",
-      "twitter": "username",
-      "stackoverflow": "https://stackoverflow.com/users/..."
+      "email": "shashikantkaushik@gmail.com",
+      "phone": "8607629309",
+      "linkedin": "shashi-kant-kaushik-36a899144/",
+      "github": "shashikantkaushik",
+     
    },
-   "about": "Lorem Ipsum is simply dummy text of the **print**ing and **typesetting industry**. Lorem Ipsum has been the **industry's standard dummy text ever since the 1500s**, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the **1960s** with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like **Aldus** **PageMaker** including versions of Lorem Ipsum.",
+   "about": " A Computer Science Engineering Final Year student & aspiring Software Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. You can track my projects on GITHUB.",
    "education": [
       {
-         "degree": "Degree of Lorem Ipsum",
-         "university": "University Name",
-         "time": "2012 - 2017",
+         "degree": "B.Tech CSE",
+         "university": "I.K.G. Punjab Technical University",
+         "time": "2020 - 2024",
          "details": [
-            "Specialization: Lorem ipsum dolor sit amet, consectetur.",
-            "Thesis: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc.",
-            "Grade: **Very good**"
+            "Specialization: Computer Science and Engineering",
+            "Grade: **7.9**"
          ]
       }
    ],
-   "experience": [
-      {
-         "role": "Role",
-         "company": "Another Company Name",
-         "time": "01.2020 - present",
-         "details": [
-            "Lorem ipsum **dolor** sit amet, consectetur **adipis**cing elit.",
-            "Fusce malesuada mauris **eu odio accumsan**, egestas elementum lacus aliquam.",
-            "**Integer** eget massa in nulla pharetra ultrices nec eget purus.",
-            "Nam sodales sem id ullamcorper **auctor**.",
-            "Lorem ipsum dolor sit amet, **consectetur** adipiscing **elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation **ullamco laboris nisi ut aliquip ex ea** commodo consequat.",
-            "Nam ullamcorper quam quis augue aliquet, **sit amet** sodales urna venenatis."
-         ]
-      },
-      {
-         "role": "Associate Role",
-         "company": "Another Company Name",
-         "time": "03.2018 - 01.2020"
-      },
-      {
-         "role": "Student Role",
-         "company": "Another Company Name",
-         "time": "06.2017 - 03.2018"
-      },
-      {
-         "role": "Lorem Ipsum Role",
-         "company": "Company Name",
-         "time": "09.2016 - 01.2017",
-         "details": [
-            "Suspendisse venenatis sapien non pharetra scelerisque.",
-            "Donec fringilla mauris eu est elementum dictum.",
-            "Nulla consequat dui id porta euismod."
-         ]
-      }
-   ],
+  
+         
    "projects": {
-      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sagittis eros. Morbi sit amet porta tellus. Donec commodo varius **massa**, eu sagittis velit. Maecenas a orci sit amet lacus porttitor finibus sit amet id lorem. Sed id urna nunc. Nulla laoreet nisi ac tincidunt mattis. ",
+      "details": "Here are the some of my projects. Git Hub links of all the projects are mentioned with them. These projects are completely build from scratch. ",
       "items": [
          {
-            "name": "my-awesome-project3",
-            "tagline": "[VueJS, Vuetify]",
-            "link": "https://project.link",
-            "details": "Sed a imperdiet erat. Curabitur porttitor ut augue sit amet luctus. Nam molestie, augue ac tempor tristique, neque enim blandit mi, id ultricies erat leo non lectus."
+            "name": "Homzy & Homzy Provider",
+            "tagline": "[Flutter, API, Payments, OTP Login, ChatBot, Firebase]",
+            "link": "https://github.com/shashikantkaushik/homzy2.8.0",
+             "link": "https://github.com/shashikantkaushik/homzy_pro_7.0",
+            "details": "These are two different apps for user and provider. Basically It is a home service app which act as a intermediater between the user and provider. It helps us in daily household Services  to book without much efforts like Electrician, Plumber, Salon etc. We have integrated with a Chat Bot available 24*7 for our service. In android devices we can also make payments with the help of UPI. It consists of  One click OTP login functionality. If possible I will take this app to the next Level in future."
          },
          {
-            "name": "my-awesome-project",
-            "tagline": "[Kubernetes, Helm]",
-            "details": "Aliquam ultricies, nulla in convallis iaculis, arcu elit ultricies felis, vitae ullamcorper tortor odio id mauris. Vestibulum non euismod ligula. Duis condimentum condimentum magna, molestie imperdiet tellus finibus vitae."
+            "name": "Flash Chat app",
+              "tagline": "[Flutter, Firebase]",
+            "link": "https://github.com/shashikantkaushik/flash_chat_app_flutter",
+            "details": "This is a group chatting app like whatsapp. This is for the beginer level Developers. "
          },
          {
-            "name": "my-awesome-project2",
-            "tagline": "[Python, FastAPI]",
-            "link": "https://project.link",
-            "details": "Pellentesque tempor dolor quam, in rhoncus leo ullamcorper eu. Donec vestibulum sapien metus, dapibus varius felis sollicitudin ac. Suspendisse finibus arcu diam, et lacinia dui fermentum eget. Etiam lacinia risus et tellus maximus, id sagittis odio pharetra. Proin vitae ex lacinia lorem dignissim convallis. Maecenas eu sem vitae tortor tincidunt sodales. Praesent vitae rhoncus mauris, non tincidunt magna. Curabitur finibus vestibulum nisl vitae consequat. Donec sagittis feugiat magna ac lacinia. Vestibulum auctor a nisi eget aliquam. Morbi posuere, orci vel fermentum pellentesque, ligula elit sagittis tellus, sagittis hendrerit leo dui vel nunc."
+            "name": "Weather Forecasting",
+            "link": "https://github.com/shashikantkaushik/climate_flutter",
+           "tagline": "[Flutter, API]",
+            "details": "This App give you weather of your Current Location as well as you can enter any city to check weather of that. "
+         },
+         {
+            "name": "Cryptotracker",
+            "tagline": "[Flutter, API]",
+            "link": "https://github.com/shashikantkaushik/crypto_tracker",
+            "details": " This is a crypto Currency price tracking app in which we can track the price of cryptoCurrency in the real time. It fetches the result with the help of API."
          }
       ]
    },
    "skills2Rows": true,
    "skills": [
       {
-         "name": "Python",
+         "name": "Flutter",
          "level": 4.5
       },
       {
-         "name": "Kubernetes",
-         "level": 4
-      },
-      {
-         "name": "Bash",
-         "level": 4
-      },
-      {
-         "name": "Containers",
+         "name": "C++",
          "level": 4.5
       },
       {
-         "name": "Ansible",
+         "name": "python"
          "level": 4
       },
       {
-         "name": "Linux",
-         "level": 4
+         "name": "Core Java",
+         "level": 3.7
       },
       {
-         "name": "AWS",
+         "name": "Front End Web",
          "level": 3.5
       },
-      {
-         "name": "GoLang",
-         "level": 2
-      },
-      {
-         "name": "NixOS",
-         "level": 1
-      },
-      {
-         "name": "CI/CD",
-         "level": 4
-      },
-      {
-         "name": "Git",
-         "level": 3
-      },
-      {
-         "name": "Helm",
-         "level": 3
-      },
-      {
-         "name": "Ruby",
-         "level": 3
-      },
-      {
-         "name": "Ruby On Rails",
-         "level": 4
-      },
-      {
-         "name": "VueJS",
-         "level": 4
-      },
-      {
-         "name": "Vagrant",
-         "level": 3.5
-      }
-   ],
-   "languages": [
-      {
-         "name": "Polish",
-         "level": "Native"
-      },
-      {
-         "name": "English",
-         "level": "C1"
-      },
-      {
-         "name": "German",
-         "level": "B1"
-      }
+      
+     
+      
    ],
    "courses": [
-      "Lorem Ipsum Workshop (Cloud Native Community)"
+      "Hatron Office Automation"
    ],
    "interests": [
       {
-         "name": "Kitesurfing",
-         "link": "https://vimeo.com/374277514"
+         "name": "Socialing",
+        
       },
       {
-         "name": "Crossfit"
+         "name": "Exploring"
       },
       {
-         "name": "Boxing"
+         "name": "Badminton"
       }
    ],
    "numerPages": true
